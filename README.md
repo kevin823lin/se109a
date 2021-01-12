@@ -12,4 +12,4 @@
 ## 期中專案
 [換匯計算](https://github.com/se109a-141728/se109a)
 ## 期末報告
-[換匯計算](https://github.com/kevin823lin/se109a/tree/master/FinalReport)
+[找質數](https://github.com/kevin823lin/se109a/tree/master/FinalReport)
