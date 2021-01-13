@@ -13,7 +13,7 @@
 
 #### 複雜度
 
-
+O(n^3/2)
 
 #### 程式
 
@@ -39,6 +39,10 @@ if(prime)
 #### 說明
 
 建表的找質數方法就是事先建立一個質數表，當需要判斷該數是否為質數時，便直接從表中確認是否為質數即可，根據建表方法的不同，執行時間也會有所不同，以下利用「厄拉托西尼篩法」進行舉例。
+
+#### 複雜度
+
+O(n*log(log(n)))
 
 #### 程式
 
@@ -80,6 +84,10 @@ int main() {
 ```
 #### 結果 — Success
 <img src=".\src\Success.png" width = "40%">
+
+### 複雜度比較
+
+<img src=".\src\O.png" width = "100%">
 
 ## 參考資料
 [https://zh.wikipedia.org/wiki/%E5%9F%83%E6%8B%89%E6%89%98%E6%96%AF%E7%89%B9%E5%B0%BC%E7%AD%9B%E6%B3%95](https://zh.wikipedia.org/wiki/%E5%9F%83%E6%8B%89%E6%89%98%E6%96%AF%E7%89%B9%E5%B0%BC%E7%AD%9B%E6%B3%95)
