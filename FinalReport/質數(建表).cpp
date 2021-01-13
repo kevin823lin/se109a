@@ -17,7 +17,7 @@ void eratosthenes()
         if (prime[i])
         {
             for (int j=i*i; j<num; j+=i)
-                    prime[j] = false;
+                prime[j] = false;
         }
     }
 }
