@@ -42,7 +42,7 @@ if(prime)
 
 #### 複雜度
 
-O(n*log(log(n)))
+![equation](https://latex.codecogs.com/svg.image?O(n*log(log(n))))
 
 #### 程式
 
